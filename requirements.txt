@@ -1,5 +1,4 @@
 wikipedia
-threading
 smtplib
 urllib.request
 os
