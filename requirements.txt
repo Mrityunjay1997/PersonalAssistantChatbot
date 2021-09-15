@@ -1,5 +1,4 @@
 wikipedia
-smtplib
 urllib.request
 os
 numpy
